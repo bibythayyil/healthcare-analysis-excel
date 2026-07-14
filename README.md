@@ -80,7 +80,3 @@ This project performs end-to-end data analysis on a healthcare dataset using Mic
 **Bibin T S**
 
 ---
-
-## Related Projects
-
-- [Sleep, Stress & Lifestyle Analysis Using Wearable Health Data (Python)](https://github.com/bibythayyil/sleep-stress-lifestyle-analysis-python)
