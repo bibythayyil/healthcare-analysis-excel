@@ -3,6 +3,13 @@
 > An Excel-based healthcare data analysis project covering data cleaning, medical examination records, hospitalisation details, and an interactive dashboard.
 
 ---
+## Project Showcase 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bibythayyil/bibythayyil/main/assets/healthcare_dashboard.png" width="900">
+</p>
+
+---
 
 ## Project Overview
 
